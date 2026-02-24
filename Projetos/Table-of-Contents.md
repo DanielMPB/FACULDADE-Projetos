@@ -10,15 +10,15 @@ Este repositório consolida implementações práticas e arquiteturas de softwar
 
 | Projeto | Domínio de Aplicação | Tecnologias Empregadas | Status | Acesso Direto |
 | :--- | :--- | :--- | :---: | :---: |
-| **[1. Commodity-analise](#1-commodity-analise)** | Ciência de Dados / Finanças | `Python` `Pandas` | ✅ Concluído | [📁 Acessar Pasta](./commodity-analise) |
-| **[2. FiscaLog](#2-fiscalog)** | Engenharia de Dados / Fiscal | `Python` `ETL` `XML` | ✅ Concluído | [📁 Acessar Pasta](./fiscalog) |
-| **[3. Leitor de QR Code](#3-leitor-de-qr-code-automatizado)** | Automação / Visão Computacional | `Python` `OpenCV` | ✅ Concluído | [📁 Acessar Pasta](./qr-code-reader) |
+| **[1. Commodities](#1-Commodities)** | Ciência de Dados / Finanças | `Python` `Pandas` | ✅ Concluído | [📁 Acessar Pasta](./Commodities) |
+| **[2. EcoSense](#3-EcoSense)** | Automação / Visão Computacional | | ✅ Concluído | [📁 Acessar Pasta](./EcoSense) |
+| **[3. FiscaLog](#2-FiscaLog)** | Engenharia de Dados / Fiscal | `Python` `ETL` `XML` `OpenCV` | ✅ Concluído | [📁 Acessar Pasta](./FiscaLog) |
 
 ---
 
 ## 📄 Resumo Executivo dos Projetos
 
-### 1. Commodity-analise
+### 1. Commodities
 Sistema de análise de dados globais de importação de *commodities*. Transforma conjuntos de dados brutos em inteligência financeira estruturada, oferecendo ranqueamento de países, filtragem cruzada de ativos e um motor de recomendação de investimentos baseado no perfil de risco do usuário.
 👉 **[Consulte o diretório do projeto](./Commodities) para visualizar a interface de análise e as instruções de execução.**
 
