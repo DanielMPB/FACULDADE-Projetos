@@ -1,7 +1,7 @@
-# Leitor de QR Code
+# FiscaLog
 
 ## 1. Visão Geral da Arquitetura
-O projeto "Leitor de QR Code" consiste em um pipeline de processamento de dados fiscais. O sistema é segmentado em três camadas lógicas que transformam dados não estruturados em inteligência analítica interpretável.
+O projeto "FiscaLog" consiste em um pipeline de processamento de dados fiscais. O sistema é segmentado em três camadas lógicas que transformam dados não estruturados em inteligência analítica interpretável.
 
 ## 2. Descrição dos Módulos (Fases)
 
