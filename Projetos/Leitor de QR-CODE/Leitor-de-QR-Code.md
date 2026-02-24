@@ -32,14 +32,7 @@ O projeto "FiscaLog" consiste em um pipeline de processamento de dados fiscais. 
 * Plotagem analítica.
 * Saídas visuais focadas em interpretabilidade.
 
-## 3. Protocolo de Execução
-Para garantir o funcionamento adequado do projeto e a integridade das dependências de dados, a execução deve seguir estritamente a ordem cronológica abaixo:
-
-1. Executar a **Fase 1** (Aquisição).
-2. Executar a **Fase 2** (Estruturação).
-3. Executar a **Fase 3** (Visualização).
-
-## 4. Extensões Potenciais
+## 3. Extensões Potenciais
 A arquitetura modular do sistema permite a integração contínua de:
 * Camadas de classificação de aprendizado de máquina (machine learning).
 * Heurísticas de detecção de fraude.
@@ -47,3 +40,25 @@ A arquitetura modular do sistema permite a integração contínua de:
 * Endpoints de API.
 * Módulos de ingestão em tempo real.
 * Interfaces de painel de controle (dashboards como Streamlit, FastAPI ou Dash).
+
+## 4. Posicionamento Acadêmico
+
+FiscaLog pode ser interpretado como um estudo de caso em:
+
+* Engenharia de dados aplicada.
+* Modelagem de dados fiscais.
+* Arquitetura estruturada de pipelines.
+* Sistemas computacionais em camadas.
+
+
+## 5. Protocolo de Execução
+Para garantir o funcionamento adequado do projeto e a integridade das dependências de dados, a execução deve seguir estritamente a ordem cronológica abaixo:
+
+1. Executar a **Fase 1** (Aquisição).
+2. Executar a **Fase 2** (Estruturação).
+3. Executar a **Fase 3** (Visualização).## 3. Protocolo de Execução
+Para garantir o funcionamento adequado do projeto e a integridade das dependências de dados, a execução deve seguir estritamente a ordem cronológica abaixo:
+
+1. Executar a **Fase 1** (Aquisição).
+2. Executar a **Fase 2** (Estruturação).
+3. Executar a **Fase 3** (Visualização).
