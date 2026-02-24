@@ -16,7 +16,7 @@ collection = db["sua_colecao"]  # nome da coleção para dados crus
 #============================
 #CONFIGURAÇÕES DO MQTT (HIVEMQ CLOUD)
 #============================
-MQTT_BROKER = "83abf9ef477a4d1ba1fd6e8fe406a1ee.s1.eu.hivemq.cloud"   # exemplo: xxxxx.s1.eu.hivemq.cloud
+MQTT_BROKER = "brokerxxxxxxx.s1.eu.hivemq.cloud"   # exemplo: xxxxx.s1.eu.hivemq.cloud
 MQTT_PORT = 0000                   # TLS
 MQTT_USER = "usuario"
 MQTT_PASS = "senha"
