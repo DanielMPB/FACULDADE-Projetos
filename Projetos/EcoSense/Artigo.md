@@ -2,5 +2,3 @@
 
 Acesse o link para a leitura: https://www.overleaf.com/read/ysctbmvxwrqj#164606
 Ou baixe o arquivo 'Artigo_Cientifico'
-
-# Para a execução do código testar antes o simulador com o HiveMqtt e conectar a ele.
