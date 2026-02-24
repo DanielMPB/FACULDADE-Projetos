@@ -50,15 +50,9 @@ FiscaLog pode ser interpretado como um estudo de caso em:
 * Arquitetura estruturada de pipelines.
 * Sistemas computacionais em camadas.
 
-
 ## 5. Protocolo de Execução
 Para garantir o funcionamento adequado do projeto e a integridade das dependências de dados, a execução deve seguir estritamente a ordem cronológica abaixo:
 
 1. Executar a **Fase 1** (Aquisição).
 2. Executar a **Fase 2** (Estruturação).
 3. Executar a **Fase 3** (Visualização).## 3. Protocolo de Execução
-Para garantir o funcionamento adequado do projeto e a integridade das dependências de dados, a execução deve seguir estritamente a ordem cronológica abaixo:
-
-1. Executar a **Fase 1** (Aquisição).
-2. Executar a **Fase 2** (Estruturação).
-3. Executar a **Fase 3** (Visualização).
