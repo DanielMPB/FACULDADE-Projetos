@@ -10,7 +10,7 @@ Este repositório consolida implementações práticas e arquiteturas de softwar
 
 | Projeto | Domínio de Aplicação | Tecnologias Empregadas | Status | Acesso Direto |
 | :--- | :--- | :--- | :---: | :---: |
-| **[1. Commodities](#1-Commodities)** | Ciência de Dados / Finanças | `Python` `Pandas` | ✅ Concluído | [📁 Acessar Pasta](./Commodities) |
+| **[1. Comodities](#1-Comodities)** | Ciência de Dados / Finanças | `Python` `Pandas` | ✅ Concluído | [📁 Acessar Pasta](./Comodities) |
 | **[2. EcoSense](#3-EcoSense)** | Automação / Visão Computacional | | ✅ Concluído | [📁 Acessar Pasta](./EcoSense) |
 | **[3. FiscaLog](#2-FiscaLog)** | Engenharia de Dados / Fiscal | `Python` `ETL` `XML` `OpenCV` | ✅ Concluído | [📁 Acessar Pasta](./FiscaLog) |
 
@@ -18,9 +18,9 @@ Este repositório consolida implementações práticas e arquiteturas de softwar
 
 ## 📄 Resumo Executivo dos Projetos
 
-### 1. Commodities
-Sistema de análise de dados globais de importação de *commodities*. Transforma conjuntos de dados brutos em inteligência financeira estruturada, oferecendo ranqueamento de países, filtragem cruzada de ativos e um motor de recomendação de investimentos baseado no perfil de risco do usuário.
-👉 **[Consulte o diretório do projeto](./Commodities) para visualizar a interface de análise e as instruções de execução.**
+### 1. Comodities
+Sistema de análise de dados globais de importação de *Comodities*. Transforma conjuntos de dados brutos em inteligência financeira estruturada, oferecendo ranqueamento de países, filtragem cruzada de ativos e um motor de recomendação de investimentos baseado no perfil de risco do usuário.
+👉 **[Consulte o diretório do projeto](./Comodities) para visualizar a interface de análise e as instruções de execução.**
 
 
 ### 3. EcoSense
